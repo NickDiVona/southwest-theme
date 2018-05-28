@@ -1,0 +1,20 @@
+{
+  "name": "southwest",
+  "displayName": "Desert Theme",
+  "description": "A code theme featuring colors from the American Southwest.",
+  "version": "0.0.1",
+  "publisher": "NickDiVona",
+  "engines": {
+    "vscode": "^1.23.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Southwest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Southwest-color-theme.json"
+      }
+    ]
+  }
+}
