@@ -80,7 +80,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#43A047"
+        "foreground": ""
       }
     },
     {
@@ -196,7 +196,7 @@
       "name": "Language methods",
       "scope": ["variable.language"],
       "settings": {
-        "fontStyle": "italic",
+        // "fontStyle": "italic",
         "foreground": "#FF5370"
       }
     },
@@ -222,7 +222,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#80CBC4"
       }
     },
     {
