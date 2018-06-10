@@ -7,7 +7,9 @@
   "engines": {
     "vscode": "^1.23.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
@@ -16,5 +18,8 @@
         "path": "./themes/Southwest-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "url": "https://github.com/NickDiVona/southwest-theme"
   }
 }
